@@ -2,6 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/carlosgonzalezdev/) · [Email](mailto:dev.np9av@passinbox.com)
 
+![Banner para Linkedin](https://github.com/user-attachments/assets/f8b3c749-d88c-48d5-9ffa-9df6c58b31c3)
+
 ## Sobre Mí
 
 Soy un estudiante que actualmente está cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma. Me encanta aprender cosas nuevas cada día y desarrollar software. He participado en una competición de programación, quedando en 3º lugar. Tengo una gran habilidad para la lógica y disfruto resolviendo problemas. Programar es mi pasión, tanto en clase como en mi tiempo libre.
