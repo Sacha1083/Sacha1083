@@ -24,17 +24,16 @@ Soy un estudiante que actualmente está cursando el Grado Superior de Desarrollo
 ### IES Maciá Abela
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**
 - 3º Puesto en el encuentro de programadores 4ª Edición (2º Mejor programa).
-- Aptitudes: Java, MySQL, MariaDB, JUnit, Linux, Spring Boot, Java Swing, API REST, Hibernate, Maven, Gradle, UML, Git y Desarrollo Android.
+- Aptitudes: Java, MySQL, MariaDB, JUnit, Linux, GIT, Spring, Java Swing, Hibernate, API REST, Maven, Grandle, MongoDB, UML, XML, Desarrollo Android, Programación de procesos y servicios, AWS RDS, AWS EC2.
 
 ### IES Maciá Abela
 **Técnico en Sistemas Microinformáticos y Redes**
 - Honores: Matrícula de honor en Montaje y Mantenimiento de Equipos.
-- Aptitudes: Proxmox, Redes, HTML, CSS, AWS EC2, VMware.
+- Aptitudes: Proxmox, Redes, HTML, CSS, AWS EC2, VMware, Linux y Windows Server.
 
 ## Habilidades Adicionales
-- He creado contenedores S3 tanto en AWS, como en Storj.
-- He practicado Azure por mi cuenta.
-- B1 Valenciano
+- Dispongo de carné de conducir y coche propio.
+- B1 Valenciano.
 
 ## Contacto
 
