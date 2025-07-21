@@ -9,6 +9,18 @@
 Soy un estudiante que actualmente está cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma. Me encanta estar aprendiendo cada día una cosa nueva y desarrollar software. He participado en una competición de programación (quedé en 3º lugar). Se me da muy bien la lógica y me encanta resolver problemas. Programar es algo que me encanta; lo hago en clase y en casa cuando tengo tiempo libre.
 
 ## EXPERIENCIA PROFESIONAL
+### ![Elx Virtual Logo](https://www.elxvirtual.com/panel/imagenes/clientes/18042016140111.png) Elx Virtual
+**Desarrollador de aplicaciones**  
+Contrato de prácticas · Mar. 2025 – May. 2025 · 3 meses  
+Elche/Elx, Comunidad Valenciana / Comunitat Valenciana, España · En remoto
+
+- Desarrollé y mantuve aplicaciones de gestión interna utilizando Delphi y bases de datos Firebird, MariaDB y MySQL.
+- Implementé informes avanzados con FastReports para facilitar el análisis de datos por parte del equipo administrativo.
+- Participé en el desarrollo de una aplicación móvil en Android, optimizando la interfaz y la lógica de negocio para su uso en entornos industriales.
+- Utilicé componentes TMS para acelerar el desarrollo de funcionalidades complejas y mejorar la experiencia del usuario.
+- Contribuí en la modernización de aplicaciones heredadas escritas en Pascal, mejorando su mantenimiento y compatibilidad con sistemas actuales.
+- Colaboré con el equipo remoto para integrar nuevas funcionalidades y solucionar incidencias en los sistemas existentes.
+
 
 ### Megafor Security
 **Técnico en Informática**  
