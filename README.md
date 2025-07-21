@@ -25,7 +25,7 @@ Alicante, España · Marzo 2023 – Junio 2023
 
 ### IES Maciá Abela
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-Crevillente, España · Sep. 2023 – En Curso  
+Crevillente, España · Sep. 2023 – May. 2025 
 - 3º Puesto en el encuentro de programadores 4º Edición  
 - Aptitudes: Java, MySQL, MariaDB, JUnit, Linux, GIT, Spring, Java Swing, Hibernate, API REST, Maven, Grandle, MongoDB, UML, XML, Desarrollo Android, Programación de procesos y servicios, AWS RDS, AWS EC2, Docker, Odoo y Scripts de shell.
 
