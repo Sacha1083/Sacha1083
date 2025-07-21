@@ -9,7 +9,8 @@
 Soy un estudiante que actualmente está cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma. Me encanta estar aprendiendo cada día una cosa nueva y desarrollar software. He participado en una competición de programación (quedé en 3º lugar). Se me da muy bien la lógica y me encanta resolver problemas. Programar es algo que me encanta; lo hago en clase y en casa cuando tengo tiempo libre.
 
 ## EXPERIENCIA PROFESIONAL
-### ![Elx Virtual Logo](https://www.elxvirtual.com/panel/imagenes/clientes/18042016140111.png) Elx Virtual
+### ![Elx Virtual Logo](https://raw.githubusercontent.com/Sacha1083/Sacha1083/refs/heads/main/elxVirtual-logo.png) 
+###Elx Virtual
 **Desarrollador de aplicaciones**  
 Contrato de prácticas · Mar. 2025 – May. 2025 · 3 meses  
 Elche/Elx, Comunidad Valenciana / Comunitat Valenciana, España · En remoto
@@ -21,7 +22,7 @@ Elche/Elx, Comunidad Valenciana / Comunitat Valenciana, España · En remoto
 - Contribuí en la modernización de aplicaciones heredadas escritas en Pascal, mejorando su mantenimiento y compatibilidad con sistemas actuales.
 - Colaboré con el equipo remoto para integrar nuevas funcionalidades y solucionar incidencias en los sistemas existentes.
 
-
+### ![Megafor Logo](https://raw.githubusercontent.com/Sacha1083/Sacha1083/refs/heads/main/megafor-logo.png)
 ### Megafor Security
 **Técnico en Informática**  
 Alicante, España · Marzo 2023 – Junio 2023
