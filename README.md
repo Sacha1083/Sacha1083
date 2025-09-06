@@ -36,6 +36,10 @@ Alicante, España · Marzo 2023 – Junio 2023
 
 ## EDUCACIÓN
 
+### Universidad
+**Grado en Ingeniería Informática en Tecnologías de la Información**  
+Actualmente cursando
+
 ### IES Maciá Abela
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
 Crevillente, España · Sep. 2023 – May. 2025 
